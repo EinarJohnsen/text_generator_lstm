@@ -29,14 +29,13 @@ Character set encoding: UTF-8
 
 ### Initial code structure is based on code from: 
 
-@misc{bhaveshoswal,
-  author = {Bhavesh Vinod Oswal},
-  title = {CNN-text-classification-keras},
-  year = {2016},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/bhaveshoswal/CNN-text-classification-keras}},
-}
+bhaveshoswal,
+  author = Bhavesh Vinod Oswal,
+  title = CNN-text-classification-keras,
+  year = 2016,
+  publisher = GitHub,
+  journal = GitHub repository,
+  howpublished = https://github.com/bhaveshoswal/CNN-text-classification-keras
 
 and
 
