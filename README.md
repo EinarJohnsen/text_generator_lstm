@@ -38,6 +38,8 @@ Character set encoding: UTF-8
   howpublished = {\url{https://github.com/bhaveshoswal/CNN-text-classification-keras}},
 }
 
+and
+
 Jason Brownlee:
 https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
 https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
